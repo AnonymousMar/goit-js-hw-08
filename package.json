@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnonymousMar/goit-js-hw-08.git"
+    "url": "git+https://github.com/goitcademy/parcel-project-template.git"
   },
   "keywords": [],
   "author": "Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AnonymousMar/goit-js-hw-08/issues"
+    "url": "https://github.com/goitcademy/parcel-project-template/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.20.1",
